@@ -4,7 +4,7 @@ public class SeasonDeterminer {
 
     public void tellTheSeason(int monthNumber) {
 
-        String season = null;
+        String season;
 
         switch(monthNumber) {
             case 1:
